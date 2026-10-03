@@ -13,7 +13,7 @@ Backend for the official website of [Open Source Kigali](https://github.com/Open
 - **Language:** TypeScript (strict mode)
 - **Database:** PostgreSQL via Prisma
 - **Image storage:** Cloudinary
-- **API docs:** OpenAPI served through Swagger UI -->
+- **API docs:** OpenAPI served through Swagger UI --->
 
 ## Getting started
 
